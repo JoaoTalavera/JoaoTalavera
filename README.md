@@ -31,4 +31,4 @@
 
 ### 📫 How to reach me
 
-- ✉️ Email: joaotalavera@gmail.com
+- ✉️ Email: joaovtalavera@gmail.com
