@@ -1,11 +1,3 @@
-Hi, I’m @JoaoTalavera.
-
-I’m currently learning how to code in JAVA and soon I will move to Python and C++.
-
-I’m looking to collaborate on everything I can, so I can learn with every single person that has at least 1 new thing to teach me.
-
-You can reach me through my email: joaotalavera@gmail.com.
-
 # 👋 Hi there! I'm João Victor Ferreira Talavera
 
 🎓 Graduated in Manufacturing Engineering and currently studying Software Development.  
