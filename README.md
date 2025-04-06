@@ -32,3 +32,4 @@
 ### 📫 How to reach me
 
 - ✉️ Email: joaovtalavera@gmail.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/joaotalavera/)
